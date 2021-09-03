@@ -76,7 +76,7 @@ export interface StreamingAudioOptions {
  */
 @Plugin({
   pluginName: 'StreamingMedia2',
-  plugin: 'cordova-plugin-streaming-media2',
+  plugin: 'cordova-plugin-streaming-media',
   pluginRef: 'plugins.streamingMedia',
   repo: 'https://github.com/centogram/cordova-plugin-streaming-media',
   platforms: ['Amazon Fire OS', 'Android', 'iOS'],
